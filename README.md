@@ -17,11 +17,12 @@ Open Source Design files
 Minimal Persona Template made with the Auto-Layout to adapt to the content of your persona.
 
 Assets used:
-<ul>
-<li>Font - Inter by Rasmus Andersson</li>
-<li>Images - Unsplash Plugin by Unsplash</li>
-<li>Icons - Heroicons by Steve Schoger</li>
-</ul>
+<br />
+<a href="https://github.com/rsms/inter" target="_blank">Font - Inter by Rasmus Andersson</a>
+<br />
+<a href="https://www.figma.com/community/plugin/738454987945972471/Unsplash" target="_blank">Images - Unsplash Plugin by Unsplash</a>
+<br />
+<a href="https://github.com/refactoringui/heroicons" target="_blank">Icons - Heroicons by Steve Schoger</a>
 
 <br />
 <br />
@@ -42,7 +43,10 @@ Assets used:
 Minimal Flow Template.
 
 Assets used:
-<ul>
-<li>Font - Inter by Rasmus Andersson</li>
-<li>Images - Unsplash Plugin by Unsplash</li>
-</ul>
+<br />
+<a href="https://github.com/rsms/inter" target="_blank">Font - Inter by Rasmus Andersson</a>
+<br />
+<a href="https://www.figma.com/community/plugin/738454987945972471/Unsplash" target="_blank">Images - Unsplash Plugin by Unsplash</a>
+
+<br />
+<br />
