@@ -1,5 +1,4 @@
 # Open Source Design
-Open Source Design files
 
 ## Persona Template Minimal
 
@@ -58,8 +57,6 @@ Minimal Flow Template.
 Assets used:
 - <a href="https://github.com/rsms/inter" target="_blank">Inter</a> by Rasmus Andersson
 - <a href="https://www.figma.com/community/plugin/738454987945972471/Unsplash" target="_blank">Unsplash Plugin</a> by Unsplash
-
-<br />
 
 #
 
