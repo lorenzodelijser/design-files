@@ -1,5 +1,30 @@
 # Open Source Design Files
 
+## Pitch slides template
+
+<a href="https://www.figma.com/community/file/1433476750478104781" role="link" target="_blank" rel="noopener noreferrer">
+  <img src="_img/thumbnail-pitch-slides-template.jpg" alt="Figma link for Pitch slides template" />
+</a>
+
+Pitch slides template for your next pitch, portfolio or presentation. This file contains 17 layouts made with blocks, so you can smoothly switch between images and text. With progress component at the bottom of your presentation.
+
+Typography used:
+- <a href="https://github.com/rsms/inter" role="link" target="_blank" rel="noopener noreferrer">Inter</a> by Rasmus Andersson
+
+Art used in example slides:
+- Nine Discourses On Commodus by CY Twombly
+- Mimic XR by Kostadin Kostadinov
+- Airmax Dotted by Mansoor
+- Artwork by Boldtron
+- Solar Storm Sculpture by Vincent Leroy
+- Artwork by Jakub Geltner
+- Pocket Operator by Teenage Engineering
+- Big Bang Tourbillon Samuel Ross by Hublot
+- let you go. (ascii explorations) by enigmatriz
+- Fishing Baits by Thomas Kurppa
+- Concrete Stereo by Ron Arad
+- The Weather Project by Studio Olafur Eliasson
+
 ## Persona Template Advanced
 
 <a href="https://www.figma.com/community/file/838432318134018290" role="link" target="_blank" rel="noopener noreferrer">
