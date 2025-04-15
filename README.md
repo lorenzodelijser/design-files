@@ -2,7 +2,6 @@
 
 Open source and free to use Figma designs you can find on my profile <a href="https://www.figma.com/@lorenzo" role="link" target="_blank" rel="noopener noreferrer">@lorenzo</a> in the Figma community.
 
-
 ## Pitch slides template
 
 <a href="https://www.figma.com/community/file/1433476750478104781" role="link" target="_blank" rel="noopener noreferrer">
@@ -58,46 +57,46 @@ Visit the teenage engineering OP-1 field website: <a href="https://teenage.engin
 ## Persona template advanced
 
 <a href="https://www.figma.com/community/file/838432318134018290" role="link" target="_blank" rel="noopener noreferrer">
-  <img src="_img/persona-template-advanced.png" alt="Figma link for Persona Template Advanced" />
+  <img src="_img/thumbnail-persona-template-advanced.jpg" alt="Figma link for Persona template advanced" />
 </a>
 
-<a href="https://www.figma.com/community/file/838432318134018290" role="link" target="_blank" rel="noopener noreferrer">Advanced Persona Template</a> made with the Auto-Layout. The layout will adapt to the content of your persona.
+<a href="https://www.figma.com/community/file/838432318134018290" role="link" target="_blank" rel="noopener noreferrer">Advanced persona template</a> made with the auto-layout. The layout will adapt to the content of your persona. Containing a dark and light version.
 
-The design is inspired by the article "Make Your Personas Great Again in 7 Simple Steps" by Slava Shestopalov, contributing writer at Smashing Magazine.
+The design is inspired by the article <a href="https://medium.com/design-bridges/personas-e60c1c06ead1" role="link" target="_blank" rel="noopener noreferrer">"Make Your Personas Great Again in 7 Simple Steps"</a> by <a href="https://x.com/shestopalov_v" role="link" target="_blank" rel="noopener noreferrer">Slava Shestopalov</a>, contributing writer at <a href="https://www.smashingmagazine.com" role="link" target="_blank" rel="noopener noreferrer">Smashing Magazine</a>.
 
 Recources used:
 - <a href="https://github.com/rsms/inter" role="link" target="_blank" rel="noopener noreferrer">Inter</a> by Rasmus Andersson
-- <a href="https://www.figma.com/community/plugin/738454987945972471/Unsplash" role="link" target="_blank" rel="noopener noreferrer">Unsplash Plugin</a> by Unsplash
+- <a href="https://www.figma.com/community/plugin/1090391796325905912/memojis" role="link" target="_blank" rel="noopener noreferrer">Memojis</a> by Max Steitle
 - <a href="https://github.com/atisawd/boxicons" role="link" target="_blank" rel="noopener noreferrer">Boxicons</a> by Atisa
 
 
 ## Persona template minimal
 
 <a href="https://www.figma.com/community/file/822917064336307885" role="link" target="_blank" rel="noopener noreferrer">
-  <img src="_img/persona-template-minimal.png" alt="Figma link for Persona Template Minimal" />
+  <img src="_img/thumbnail-persona-template-minimal.jpg" alt="Figma link for Persona template minimal" />
 </a>
 
-<a href="https://www.figma.com/community/file/822917064336307885" role="link" target="_blank" rel="noopener noreferrer">Minimal Persona Template</a> made with the Auto-Layout. The layout will adapt to the content of your persona.
+<a href="https://www.figma.com/community/file/822917064336307885" role="link" target="_blank" rel="noopener noreferrer">Minimal Persona Template</a> made with the Auto-Layout. The layout will adapt to the content of your persona. Containing a dark and light version.
 
-The design is inspired by the article "A Closer Look At Personas: What They Are And How They Work" & "A Closer Look At Personas: A Guide To Developing The Right Ones" from Smashing Magazine by Shlomo Goltz.
+The design is inspired by the article <a href="https://www.smashingmagazine.com/2014/08/a-closer-look-at-personas-part-1/" role="link" target="_blank" rel="noopener noreferrer">"A Closer Look At Personas: What They Are And How They Work"</a> & <a href="https://www.smashingmagazine.com/2014/08/a-closer-look-at-personas-part-2/" role="link" target="_blank" rel="noopener noreferrer">"A Closer Look At Personas: A Guide To Developing The Right Ones"</a> from <a href="https://www.smashingmagazine.com" role="link" target="_blank" rel="noopener noreferrer">Smashing Magazine</a> by <a href="https://x.com/MoGoltz" role="link" target="_blank" rel="noopener noreferrer">Shlomo Goltz</a>.
 
 Recources used:
 - <a href="https://github.com/rsms/inter" role="link" target="_blank" rel="noopener noreferrer">Inter</a> by Rasmus Andersson
-- <a href="https://www.figma.com/community/plugin/738454987945972471/Unsplash" role="link" target="_blank" rel="noopener noreferrer">Unsplash Plugin</a> by Unsplash
+- <a href="https://www.figma.com/community/plugin/1090391796325905912/memojis" role="link" target="_blank" rel="noopener noreferrer">Memojis</a> by Max Steitle
 - <a href="https://github.com/refactoringui/heroicons" role="link" target="_blank" rel="noopener noreferrer">Heroicons</a> by Steve Schoger
 
 
 ## Flow template
 
 <a href="https://www.figma.com/community/file/828934765007036334" role="link" target="_blank" rel="noopener noreferrer">
-  <img src="_img/flow-template.png" alt="Figma link for Persona Template" />
+  <img src="_img/thumbnail-flow-template.jpg" alt="Figma link for Flow template" />
 </a>
 
-<a href="https://www.figma.com/community/file/828934765007036334" role="link" target="_blank" rel="noopener noreferrer">Minimal Flow Template</a> to make flowcharts and user flows.
+<a href="https://www.figma.com/community/file/828934765007036334" role="link" target="_blank" rel="noopener noreferrer">Flow template</a> to make flowcharts and user flows.
 
 Assets used:
 - <a href="https://github.com/rsms/inter" role="link" target="_blank" rel="noopener noreferrer">Inter</a> by Rasmus Andersson
-- <a href="https://www.figma.com/community/plugin/738454987945972471/Unsplash" role="link" target="_blank" rel="noopener noreferrer">Unsplash Plugin</a> by Unsplash
+- <a href="https://www.figma.com/community/plugin/1090391796325905912/memojis" role="link" target="_blank" rel="noopener noreferrer">Memojis</a> by Max Steitle
 
 #
 
