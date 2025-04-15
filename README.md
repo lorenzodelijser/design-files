@@ -1,4 +1,4 @@
-# Open Source Design Files
+# Open source design files
 
 ## Pitch slides template
 
@@ -6,7 +6,7 @@
   <img src="_img/thumbnail-pitch-slides-template.jpg" alt="Figma link for Pitch slides template" />
 </a>
 
-Pitch slides template for your next pitch, portfolio or presentation. This file contains 17 layouts made with blocks, so you can smoothly switch between images and text. With progress component at the bottom of your presentation.
+<a href="https://www.figma.com/community/file/1433476750478104781" role="link" target="_blank" rel="noopener noreferrer">Pitch slides template</a> for your next pitch, portfolio or presentation. This file contains 17 layouts made with blocks, so you can smoothly switch between images and text. With progress component at the bottom of your presentation.
 
 Typography used:
 - <a href="https://github.com/rsms/inter" role="link" target="_blank" rel="noopener noreferrer">Inter</a> by Rasmus Andersson
@@ -24,6 +24,20 @@ Art used in example slides:
 - Fishing Baits by Thomas Kurppa
 - Concrete Stereo by Ron Arad
 - The Weather Project by Studio Olafur Eliasson
+
+## teenage engineering OP-XY
+
+<a href="https://www.figma.com/community/file/1440982544324019665" role="link" target="_blank" rel="noopener noreferrer">
+  <img src="_img/thumbnail-teenage-engineering-op-xy.jpg" alt="Figma link for teenage engineering OP-XY" />
+</a>
+
+<a href="https://www.figma.com/community/file/1440982544324019665" role="link" target="_blank" rel="noopener noreferrer">teenage engineering OP-XY</a> fully recreated in Figma.
+
+Information about the teenage engineering OP-XY:
+the new evolution of sequencing. OP–XY is a powerful sequencer, synthesizer, and sampler. stack sounds on a 64-step grid, and create thousands of projects. tactile 24-key keyboard and a multi-out jack that lets you select one of four outputs. 8 unique synth engines, two send effect slots, plus brain™ for transposition—it’s a complete studio in the palm of your hand.
+
+Visit the teenage engineering OP-XY website:
+<a href="https://teenage.engineering/products/op-xy" role="link" target="_blank" rel="noopener noreferrer">https://teenage.engineering/products/op-xy</a>
 
 ## Persona Template Advanced
 
