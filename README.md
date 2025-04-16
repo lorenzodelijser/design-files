@@ -1,17 +1,16 @@
 # Open source design files
 
-Open source and free to use Figma designs you can find on my profile <a href="https://www.figma.com/@lorenzo" role="link" target="_blank" rel="noopener noreferrer">@lorenzo</a> in the Figma community.
+Open source and free to use Figma designs you can find on my profile [@lorenzo](https://figma.com/@lorenzo) in the Figma community.
+
 
 ## Pitch slides template
 
-<a href="https://www.figma.com/community/file/1433476750478104781" role="link" target="_blank" rel="noopener noreferrer">
-  <img src="_img/thumbnail-pitch-slides-template.jpg" alt="Figma link for Pitch slides template" />
-</a>
+[![Figma link for Pitch slides template](_img/thumbnail-pitch-slides-template.jpg)](https://figma.com/community/file/1433476750478104781)
 
-<a href="https://www.figma.com/community/file/1433476750478104781" role="link" target="_blank" rel="noopener noreferrer">Pitch slides template</a> for your next pitch, portfolio or presentation. This file contains 17 layouts made with blocks, so you can smoothly switch between images and text. With progress component at the bottom of your presentation.
+[Pitch slides template](https://figma.com/community/file/1433476750478104781) for your next pitch, portfolio or presentation. This file contains 17 layouts made with blocks, so you can smoothly switch between images and text. With progress component at the bottom of your presentation.
 
 Typography used:
-- <a href="https://github.com/rsms/inter" role="link" target="_blank" rel="noopener noreferrer">Inter</a> by Rasmus Andersson
+- [Inter](https://github.com/rsms/inter) by Rasmus Andersson
 
 Art used in example slides:
 - Nine Discourses On Commodus by CY Twombly
@@ -30,74 +29,64 @@ Art used in example slides:
 
 ## teenage engineering OP-XY
 
-<a href="https://www.figma.com/community/file/1440982544324019665" role="link" target="_blank" rel="noopener noreferrer">
-  <img src="_img/thumbnail-teenage-engineering-op-xy.jpg" alt="Figma link for teenage engineering OP-XY" />
-</a>
+[![Figma link for teenage engineering OP-XY](_img/thumbnail-teenage-engineering-op-xy.jpg)](https://figma.com/community/file/1440982544324019665)
 
-<a href="https://www.figma.com/community/file/1440982544324019665" role="link" target="_blank" rel="noopener noreferrer">teenage engineering OP-XY</a> fully recreated in Figma.
+[teenage engineering OP-XY](https://figma.com/community/file/1440982544324019665) fully recreated in Figma.
 
 Information about the teenage engineering OP-XY: the new evolution of sequencing. OP–XY is a powerful sequencer, synthesizer, and sampler. stack sounds on a 64-step grid, and create thousands of projects. tactile 24-key keyboard and a multi-out jack that lets you select one of four outputs. 8 unique synth engines, two send effect slots, plus brain™ for transposition—it’s a complete studio in the palm of your hand.
 
-Visit the teenage engineering OP-XY website: <a href="https://teenage.engineering/products/op-xy" role="link" target="_blank" rel="noopener noreferrer">https://teenage.engineering/products/op-xy</a>
+Visit the [teenage engineering OP-XY website](https://teenage.engineering/products/op-xy).
 
 
 ## teenage engineering OP-1 field
 
-<a href="https://www.figma.com/community/file/1129880749733211997" role="link" target="_blank" rel="noopener noreferrer">
-  <img src="_img/thumbnail-teenage-engineering-op-1-field.jpg" alt="Figma link for teenage engineering OP-1 field" />
-</a>
+[![Figma link for teenage engineering OP-1 field](_img/thumbnail-teenage-engineering-op-1-field.jpg)](https://figma.com/community/file/1129880749733211997)
 
-<a href="https://www.figma.com/community/file/1129880749733211997" role="link" target="_blank" rel="noopener noreferrer">teenage engineering OP-1 field</a> fully recreated in Figma.
+[teenage engineering OP-1 field](https://figma.com/community/file/1129880749733211997) fully recreated in Figma.
 
 Information about the teenage engineering OP-1 field: The evolution of the OP–1 synthesizer. inspired by a decade of technological advancements, ideas and improvements, OP–1 field features a new low aluminum frame, field color palette and glass screen.
 
-Visit the teenage engineering OP-1 field website: <a href="https://teenage.engineering/products/op-1" role="link" target="_blank" rel="noopener noreferrer">https://teenage.engineering/products/op-1</a>
+Visit the [teenage engineering OP-1 field website](https://teenage.engineering/products/op-1).
 
 
 ## Persona template advanced
 
-<a href="https://www.figma.com/community/file/838432318134018290" role="link" target="_blank" rel="noopener noreferrer">
-  <img src="_img/thumbnail-persona-template-advanced.jpg" alt="Figma link for Persona template advanced" />
-</a>
+[![Figma link for Persona template advanced](_img/thumbnail-persona-template-advanced.jpg)](https://figma.com/community/file/838432318134018290)
 
-<a href="https://www.figma.com/community/file/838432318134018290" role="link" target="_blank" rel="noopener noreferrer">Advanced persona template</a> made with the auto-layout. The layout will adapt to the content of your persona. Containing a dark and light version.
+[Advanced persona template](https://figma.com/community/file/838432318134018290) made with the auto-layout. The layout will adapt to the content of your persona. Containing a dark and light version.
 
-The design is inspired by the article <a href="https://medium.com/design-bridges/personas-e60c1c06ead1" role="link" target="_blank" rel="noopener noreferrer">"Make Your Personas Great Again in 7 Simple Steps"</a> by <a href="https://x.com/shestopalov_v" role="link" target="_blank" rel="noopener noreferrer">Slava Shestopalov</a>, contributing writer at <a href="https://www.smashingmagazine.com" role="link" target="_blank" rel="noopener noreferrer">Smashing Magazine</a>.
+The design is inspired by the article ["Make Your Personas Great Again in 7 Simple Steps"](https://medium.com/design-bridges/personas-e60c1c06ead1) by [Slava Shestopalov](https://x.com/shestopalov_v), contributing writer at [Smashing Magazine](https://smashingmagazine.com).
 
 Recources used:
-- <a href="https://github.com/rsms/inter" role="link" target="_blank" rel="noopener noreferrer">Inter</a> by Rasmus Andersson
-- <a href="https://www.figma.com/community/plugin/1090391796325905912/memojis" role="link" target="_blank" rel="noopener noreferrer">Memojis</a> by Max Steitle
-- <a href="https://github.com/atisawd/boxicons" role="link" target="_blank" rel="noopener noreferrer">Boxicons</a> by Atisa
+- [Inter](https://github.com/rsms/inter) by Rasmus Andersson
+- [Memojis](https://figma.com/community/plugin/1090391796325905912/memojis) by Max Steitle
+- [Boxicons](https://github.com/atisawd/boxicons) by Atisa
 
 
 ## Persona template minimal
 
-<a href="https://www.figma.com/community/file/822917064336307885" role="link" target="_blank" rel="noopener noreferrer">
-  <img src="_img/thumbnail-persona-template-minimal.jpg" alt="Figma link for Persona template minimal" />
-</a>
+[![Figma link for Persona template minimal](_img/thumbnail-persona-template-minimal.jpg)](https://figma.com/community/file/822917064336307885)
 
-<a href="https://www.figma.com/community/file/822917064336307885" role="link" target="_blank" rel="noopener noreferrer">Minimal Persona Template</a> made with the Auto-Layout. The layout will adapt to the content of your persona. Containing a dark and light version.
+[Minimal Persona Template](https://figma.com/community/file/822917064336307885) made with the auto-layout. The layout will adapt to the content of your persona. Containing a dark and light version.
 
-The design is inspired by the article <a href="https://www.smashingmagazine.com/2014/08/a-closer-look-at-personas-part-1/" role="link" target="_blank" rel="noopener noreferrer">"A Closer Look At Personas: What They Are And How They Work"</a> & <a href="https://www.smashingmagazine.com/2014/08/a-closer-look-at-personas-part-2/" role="link" target="_blank" rel="noopener noreferrer">"A Closer Look At Personas: A Guide To Developing The Right Ones"</a> from <a href="https://www.smashingmagazine.com" role="link" target="_blank" rel="noopener noreferrer">Smashing Magazine</a> by <a href="https://x.com/MoGoltz" role="link" target="_blank" rel="noopener noreferrer">Shlomo Goltz</a>.
+The design is inspired by the article ["A Closer Look At Personas: What They Are And How They Work"](https://smashingmagazine.com/2014/08/a-closer-look-at-personas-part-1) & ["A Closer Look At Personas: A Guide To Developing The Right Ones"](https://smashingmagazine.com/2014/08/a-closer-look-at-personas-part-2) from [Smashing Magazine](https://smashingmagazine.com) by [Shlomo Goltz](https://x.com/MoGoltz).
 
 Recources used:
-- <a href="https://github.com/rsms/inter" role="link" target="_blank" rel="noopener noreferrer">Inter</a> by Rasmus Andersson
-- <a href="https://www.figma.com/community/plugin/1090391796325905912/memojis" role="link" target="_blank" rel="noopener noreferrer">Memojis</a> by Max Steitle
-- <a href="https://github.com/refactoringui/heroicons" role="link" target="_blank" rel="noopener noreferrer">Heroicons</a> by Steve Schoger
+- [Inter](https://github.com/rsms/inter) by Rasmus Andersson
+- [Memojis](https://figma.com/community/plugin/1090391796325905912/memojis) by Max Steitle
+- [Heroicons](https://github.com/refactoringui/heroicons) by Steve Schoger
 
 
 ## Flow template
 
-<a href="https://www.figma.com/community/file/828934765007036334" role="link" target="_blank" rel="noopener noreferrer">
-  <img src="_img/thumbnail-flow-template.jpg" alt="Figma link for Flow template" />
-</a>
+[![Figma link for Flow template](_img/thumbnail-flow-template.jpg)](https://figma.com/community/file/828934765007036334)
 
-<a href="https://www.figma.com/community/file/828934765007036334" role="link" target="_blank" rel="noopener noreferrer">Flow template</a> to make flowcharts and user flows.
+[Flow template](https://figma.com/community/file/828934765007036334) to make flowcharts and user flows.
 
 Assets used:
-- <a href="https://github.com/rsms/inter" role="link" target="_blank" rel="noopener noreferrer">Inter</a> by Rasmus Andersson
-- <a href="https://www.figma.com/community/plugin/1090391796325905912/memojis" role="link" target="_blank" rel="noopener noreferrer">Memojis</a> by Max Steitle
+- [Inter](https://github.com/rsms/inter) by Rasmus Andersson
+- [Memojis](https://figma.com/community/plugin/1090391796325905912/memojis) by Max Steitle
 
 #
 
-Feel free to reach out to me through email at [hey@lorenzodelijser.com](mailto:hey@lorenzodelijser.com) or on [X](https://x.com/lorenzodelijser) if you have any questions or feedback.
+You can see more of my work on my website on [lorenzodelijser.com](https://lorenzodelijser.com). Feel free to reach out to me through email at [hey@lorenzodelijser.com](mailto:hey@lorenzodelijser.com) or on [X](https://x.com/lorenzodelijser) if you have any questions or feedback.
